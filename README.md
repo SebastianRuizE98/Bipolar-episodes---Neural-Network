@@ -142,6 +142,8 @@ The purpose of these plots is not only to determine whether a prediction is corr
 
 ## Figure 1 – Correct Prediction (Manic Episode)
 
+![Figure 1](fig1.png)
+
 
 
 The actual class corresponds to a manic episode (Class 1).
@@ -155,7 +157,7 @@ Correct classification with moderate confidence.
 
 ## Figure 2 – Ambiguous Prediction
 
-![Figure 2](images/fig2.png)
+![Figure 2](fig2.png)
 
 The actual class corresponds to a manic episode (Class 1).
 
@@ -168,7 +170,7 @@ This example illustrates a difficult case where the model struggles to distingui
 
 ## Figure 3 – Correct Prediction (Depressive Episode)
 
-![Figure 3](images/fig3.png)
+![Figure 3](fig3.png)
 
 The actual class corresponds to a depressive episode (Class 0).
 
@@ -181,7 +183,7 @@ Strong and confident prediction with clear separation between classes.
 
 ## Figure 4 – Correct Prediction (Manic Episode)
 
-![Figure 4](images/fig4.png)
+![Figure 4](fig4.png)
 
 The actual class corresponds to a manic episode (Class 1).
 
